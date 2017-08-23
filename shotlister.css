@@ -1,0 +1,13 @@
+#fcpxml{
+    font-family: monospace;
+    white-space: pre;
+    color: lightcoral;
+    font-size: 1rem;
+}
+#fcpxml *{
+    border: 1px solid silver;
+}
+#out{
+    width: 100%;
+    height: 500px;
+}
